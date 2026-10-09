@@ -24,6 +24,7 @@ Here are some ideas to get you started:
                   engineering logics
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=zarozariowarudo&repo=zarozariowarudo%2FSuperSmartWatches&show_owner=true&description_lines_count=2&theme=light_github_repocard)](https://github.com/zarozariowarudo/SuperSmartWatches)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=zarozariowarudo&repo=zarozariowarudo%2FWebSDLooker&show_owner=true&description_lines_count=2&theme=light_github_repocard)](https://github.com/zarozariowarudo/WebSDLooker)
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
